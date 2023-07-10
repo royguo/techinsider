@@ -1,0 +1,2 @@
+# techinsider
+techinsider.cc
